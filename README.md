@@ -1,4 +1,4 @@
-Formulário de Cadastro e Login
+#Formulário de Cadastro e Login
 Descrição do Projeto
 O Formulário de Cadastro e Login é um projeto desenvolvido para criar um sistema simples de cadastro e login de usuários. Este projeto inicial inclui funcionalidades básicas para registro de novos usuários, login seguro e futuras implementações planejadas para melhorar a experiência do usuário.
 
