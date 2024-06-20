@@ -24,4 +24,4 @@ O Formulário de Cadastro e Login é um projeto desenvolvido para criar um siste
 - **Manter Conectado**: Adição de opção para os usuários permanecerem conectados entre sessões, utilizando cookies ou tokens de sessão.
 - **Dicas de Preenchimento (HINT)**: Exibição de sugestões visuais nos campos de cadastro e login para orientar os usuários durante o preenchimento.
 
-### Feedbacks são bem-vindos para aprimorar esta aplicação e torná-la mais robusta.
+### Feedbacks são bem-vindos para aprimorar esta aplicação e melhorar o meu aprendizado.
