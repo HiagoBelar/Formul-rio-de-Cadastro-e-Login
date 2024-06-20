@@ -29,3 +29,16 @@ O Formulário de Cadastro e Login é um projeto desenvolvido para criar um siste
 1. **Clone o repositório**:
    ```bash
    git clone https://github.com/seu-usuario/formulario-cadastro-login.git
+
+   Abra o NetBeans 21.
+2. **Importe o projeto clonado para o NetBeans.
+Configure a conexão com o banco de dados PostgreSQL:
+
+Crie um banco de dados chamado seu_banco_de_dados no PostgreSQL.
+Atualize as credenciais de acesso ao banco de dados no arquivo de configuração do projeto.
+Compile e execute o projeto:
+
+Compile o projeto no NetBeans.
+Execute o projeto para iniciar a aplicação.
+Contribuições
+Este projeto está aberto a contribuições para melhorar suas funcionalidades, segurança e usabilidade. Feedbacks são bem-vindos para aprimorar esta aplicação e torná-la mais robusta.
