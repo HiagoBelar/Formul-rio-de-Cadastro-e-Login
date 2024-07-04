@@ -6,7 +6,7 @@ package br.com.formbelar.model;
 
 /**
  *
- * @author HigorMedVet
+ * @author HiagoBelar
  */
 public class Form {
     
