@@ -9,7 +9,7 @@ import br.com.formbelar.view.CadastroView;
 
 /**
  *
- * @author HigorMedVet
+ * @author HiagoBelar
  */
 public class Hint {
     
